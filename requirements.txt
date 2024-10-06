@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+PyPDF2
+reportlab
+sentence-transformers
+scikit-learn
+transformers
+torch
+google.generativeai
+PyLaTeX==1.4.2
+python-multipart
