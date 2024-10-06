@@ -1,0 +1,153 @@
+# Legal Document Generator
+
+Our advanced Legal Document Generator offers a comprehensive solution for creating, modifying, and managing various legal documents. With powerful AI-driven features and a user-friendly interface, it caters to individuals, businesses, and legal professionals alike.
+
+## Key Features
+
+1. **Document Generation**
+   - Input basic information to generate customized legal documents
+   - Wide range of document types available
+
+2. **AI-Powered Document Modification**
+   - Upload existing documents for AI analysis and modification
+   - Make specific changes like updating names, adding clauses, or revising terms
+
+3. **Bulk Document Processing**
+   - Create multiple documents simultaneously (e.g., employee contracts for large teams)
+   - Download entire document sets as compressed folders
+
+## Document Types and Use Cases
+
+### 1. NDA (Non-Disclosure Agreement)
+
+**Use Case:**
+- Protect confidential information between parties
+- Used by companies, businesses, or individuals sharing sensitive data
+
+**Key Provisions:**
+- Definition of Confidential Information
+- Obligations of Receiving Party
+- Term of Agreement
+- Legal Remedies
+
+**Example Scenario:**
+A tech startup, Tech Innovate, uses the generator to create an NDA before discussing their proprietary software with a potential investor.
+
+### 2. Leave and License Agreement
+
+**Use Case:**
+- Grant temporary permission to use a property without creating tenancy rights
+- Typically used for short-term property occupation (less than 11 months)
+
+**Key Provisions:**
+- License Grant
+- Duration of License
+- Revocation Clause
+- Use Restrictions
+
+**Example Scenario:**
+A property owner quickly generates a Leave and License Agreement to allow a friend to use their apartment for a few months.
+
+### 3. Deed of Sale (for Flat)
+
+**Use Case:**
+- Legally transfer ownership of a flat (apartment) from seller to buyer
+- Used in property purchase transactions and for registration of ownership
+
+**Key Provisions:**
+- Description of Property
+- Consideration Amount
+- Transfer of Title
+- Warranties
+
+**Example Scenario:**
+After negotiating terms, a seller uses the generator to create a Deed of Sale, ensuring legal transfer of flat ownership to the buyer.
+
+### 4. Deed of Sale (for Land)
+
+**Use Case:**
+- Legally transfer ownership of a land parcel from seller to buyer
+- Used in land purchase transactions and for land registration
+
+**Key Provisions:**
+- Description of Land
+- Consideration Amount
+- Transfer of Title
+- Covenants
+
+**Example Scenario:**
+A landowner utilizes the generator to produce a Deed of Sale for a plot of land, facilitating a smooth transfer to the new owner.
+
+### 5. Agreement of Sale
+
+**Use Case:**
+- Preliminary document outlining terms and conditions of a future sale
+- Used before the final sale deed, often for conditional sales or during due diligence
+
+**Key Provisions:**
+- Parties Involved
+- Sale Price
+- Conditions Precedent
+- Default Clause
+
+**Example Scenario:**
+A home seller quickly generates an Agreement of Sale, specifying conditions like home inspection and financing approval before finalizing the deal.
+
+### 6. Employment Contract
+
+**Use Case:**
+- Define the terms of employment between an employer and employee
+- Used when hiring new staff or updating existing employment terms
+
+**Key Provisions:**
+- Job Description and Responsibilities
+- Compensation and Benefits
+- Work Hours and Leave Policy
+- Confidentiality and Non-compete Clauses
+
+**Example Scenario:**
+A growing startup uses the bulk document processing feature to generate 50 employment contracts for their new hires, saving significant time and ensuring consistency.
+
+### 7. Rental Agreement
+
+**Use Case:**
+- Establish terms for renting property between landlord and tenant
+- Used for both residential and commercial property rentals
+
+**Key Provisions:**
+- Rent Amount and Payment Terms
+- Security Deposit
+- Maintenance Responsibilities
+- Termination Conditions
+
+**Example Scenario:**
+A property management company utilizes the generator to create customized rental agreements for multiple properties, each with specific terms and conditions.
+
+## How to Use
+
+1. **Generate New Documents:**
+   - Click "Start Generating"
+   - Select the desired document type
+   - Fill in the required information
+   - Review and download the generated document
+
+2. **Modify Existing Documents:**
+   - Navigate to the "/genai" section
+   - Upload your existing document
+   - Specify the desired changes (e.g., "Change daughter's name to Sarah" or "Add a non-compete clause")
+   - Review and approve AI-suggested modifications
+
+3. **Bulk Document Processing:**
+   - Select the document type
+   - Upload a spreadsheet with required information for multiple documents
+   - Generate all documents simultaneously
+   - Download the entire set as a compressed folder
+
+## Future Updates
+
+- Integration with e-signature platforms for streamlined document execution
+- AI-powered legal clause suggestions based on document context and recent legal trends
+- Multi-language support for generating documents in various languages
+- Document version control and collaboration features for team environments
+
+Our Legal Document Generator combines the power of AI with comprehensive legal knowledge to provide an efficient, accurate, and user-friendly solution for all your legal document needs.
