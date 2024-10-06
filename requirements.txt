@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-sentence-transformers
-scikit-learn
-transformers
-torch
-google.generativeai
+PyPDF2
+reportlab
+PyLaTeX==1.4.2
 python-multipart
