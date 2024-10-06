@@ -13,14 +13,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import json
 from fastapi.responses import FileResponse
 import os
-from tempfile import NamedTemporaryFile
-from pydantic import BaseModel
-from typing import Optional
-import PyPDF2
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
-import google.generativeai as genai
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
@@ -28,7 +23,6 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.enums import TA_CENTER
 from reportlab.lib.units import inch
 from fastapi import FastAPI, Request
-import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
 
 # Google Gemini API key
