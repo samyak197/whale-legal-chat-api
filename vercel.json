@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
       {
-        "src": "apis.py",
+        "src": "only_chat.py",
         "use": "@vercel/python"
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "apis.py"
+        "dest": "only_chat.py"
       }
     ]
   }
